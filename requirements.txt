@@ -1,0 +1,13 @@
+# CoDeST project Python dependencies
+# Install: pip install -r requirements.txt
+
+anndata
+numpy
+pandas
+scipy
+scikit-learn
+scanpy
+torch
+gseapy
+h5py
+matplotlib
